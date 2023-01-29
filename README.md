@@ -5,6 +5,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74851066/215314874-d9de6253-e3b8-4929-a254-3232f527df2a.png">
- </p>
+![image description](https://user-images.githubusercontent.com/74851066/215314874-d9de6253-e3b8-4929-a254-3232f527df2a.png)
