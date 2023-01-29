@@ -4,5 +4,5 @@
 (upload 한 소스 코드는 대회에서 공개한 코드를 수정한 코드 입니다.)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74851066/215314701-7c553707-3ff1-4dfc-a669-195577681c3f.png">
+  <img src="https://user-images.githubusercontent.com/74851066/215314874-d9de6253-e3b8-4929-a254-3232f527df2a.png">
  </p>
