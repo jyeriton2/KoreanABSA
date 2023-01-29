@@ -9,4 +9,6 @@
 train 전체 process  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74851066/215314874-d9de6253-e3b8-4929-a254-3232f527df2a.png">
-</p>
+</p>  
+  
+위 Flowchart 의 Block 과 같이 class 혹은 function 구분
